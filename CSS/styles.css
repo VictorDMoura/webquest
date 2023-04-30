@@ -1,0 +1,13 @@
+body {
+  background: #f6f1f1;
+  font-family: "Nunito", sans-serif;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+h6 {
+  font-weight: bold;
+  margin: 1.5rem 0;
+}
